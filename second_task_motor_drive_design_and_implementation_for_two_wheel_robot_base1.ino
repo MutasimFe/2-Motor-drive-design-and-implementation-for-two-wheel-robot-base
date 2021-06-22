@@ -1,4 +1,4 @@
-// DC motors controlled by potentiometer 
+// DC motorss
 
 //inputs of the two motors
 int DcMotorA1=5;
