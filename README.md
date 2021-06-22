@@ -44,12 +44,12 @@ The idea of this task is to connect the electronic circuit using Arduino, dc mot
 ![Second Task - Motor drive design and implementation for two-wheel robot base (1)](https://user-images.githubusercontent.com/85455361/122953441-64325d00-d387-11eb-8d06-b315833fa1e9.png)
 
 
-## Vedio:
+## Video:
 
 
 https://user-images.githubusercontent.com/85455361/122956832-06ebdb00-d38a-11eb-9c33-47c11f0ab0c4.mp4
 
-### Explain the vedio: 
+### Explain the video: 
    The explanation would be summrized in points:
    
    1. The speed of the dc motors controlled by the potentiometer.
