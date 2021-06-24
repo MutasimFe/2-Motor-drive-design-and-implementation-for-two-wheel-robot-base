@@ -33,7 +33,7 @@ The idea of this task is to connect the electronic circuit using Arduino, dc mot
       ![L293D-Motor-driver](https://user-images.githubusercontent.com/85455361/122951245-cf7b2f80-d385-11eb-90fe-442ba67a5603.jpg)
 
       
-5. Potentiometer 
+5. Potentiometer (250kΩ)
 
       I added the potentiometer to have the ability to control the speed of the dc motors
 
